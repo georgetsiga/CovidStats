@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CovidStats</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_case">%s new cases</string>
+    <string name="total_deaths">%d total deaths</string>
+    <string name="total_cases">%d total cases</string>
+</resources>
